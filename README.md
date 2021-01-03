@@ -28,6 +28,6 @@ Interface------------------------------------ Mozila Firefox
 
 Sistema Operacional --------------------------Linux- Ubuntu 20.4
 
-![Dino](imagens/dino1.png)
+![Jogo](imagens/printJogo.png)
 	
 
