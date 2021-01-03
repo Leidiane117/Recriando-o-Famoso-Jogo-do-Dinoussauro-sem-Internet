@@ -1,0 +1,53 @@
+body {
+    background: #fafafa;
+  }
+  
+  .dino {
+    position: absolute;
+    bottom: 0;
+    background: url(../imagens/dino1.png);
+    width: 90px;
+    height: 90px;
+  }
+  
+  .cactus {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 0;
+    background-image: url(../imagens/cactus1.png);
+  }
+  
+  
+  
+  .background {
+    position: absolute;
+    bottom: 0px;
+    background-image: url(../imagens/dunas2.jpeg);
+    background-size: 300px 300px;
+    background-repeat: repeat-x;
+    animation: slideright 600s infinite linear;
+    -webkit-animation: slideright 600s infinite linear;
+    width: 100%;
+    height: 200px;
+  }
+  .game-over{
+    position: absolute;
+    top:400px;
+    padding:0px;
+    width: 100%;
+    line-height: 5;
+    font-size: large;
+    background-image: linear-gradient(white, lightblue);
+   
+
+  }
+  
+  @keyframes slideright {
+    from {
+        background-position: 70000%;
+    }
+    to {
+        background-position: 0%;
+    }
+  }
