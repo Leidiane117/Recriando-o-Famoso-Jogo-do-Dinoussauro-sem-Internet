@@ -1,11 +1,8 @@
-# Recriando-o-famoso-jogo-do-dinoussauro-sem-internet
-
 
 Projeto desenvolvido para recriar o famoso jogo do dinoussauro do  google usando JavaScript
 --------------------------------------------------------------------------------------------
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ESTRUTURA DO PROJETO 
 
 JogoDinossauro\acao\js.js -------------------	Responsável pelas ações do jogo
@@ -32,3 +29,4 @@ Interface------------------------------------ Mozila Firefox
 
 Sistema Operacional --------------------------Linux- Ubuntu 20.4
 
+file:///home/leidiane/Imagens/Captura%20de%20tela%20de%202021-01-03%2019-55-26.png
