@@ -1,5 +1,5 @@
 
-## PROJETO DESENVOLVIDO PARA RECRIAR O FAMOSO JOGO DO DINOUSSAURO DO GOOGLE ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## PROJETO DESENVOLVIDO PARA RECRIAR O FAMOSO JOGO DO DINOUSSAURO DO GOOGLE 
 
 
 # ESTRUTURA DO PROJETO 
@@ -10,7 +10,7 @@ JogoDinossauro\estilo\css.css -----------------------	Responsável pela estiliza
 
 JogoDinossauro\imagens\---------------------	Responsável por guardar as imagens usadas no jogo
 
-JogoDinossauro\index.html	------------------- Responsável pela interface do programa, utilizando linguagem de formatação Html5.
+JogoDinossauro\index.html------------------- Responsável pela interface do programa, utilizando linguagem de formatação Html5.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -28,6 +28,6 @@ Interface------------------------------------ Mozila Firefox
 
 Sistema Operacional --------------------------Linux- Ubuntu 20.4
 
-![Jogo](imagens/printJogo.png)
+![Jogo](imagens/printTelaJogo.png)
 	
 
