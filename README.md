@@ -1,8 +1,8 @@
 
-## PROJETO DESENVOLVIDO PARA RECRIAR O FAMOSO JOGO DO DINOUSSAURO DO GOOGLE 
+# PROJETO DESENVOLVIDO PARA RECRIAR O FAMOSO JOGO DO DINOUSSAURO DO GOOGLE 
 
 
-# ESTRUTURA DO PROJETO 
+## ESTRUTURA DO PROJETO 
 
 JogoDinossauro\acao\js.js -------------------	Responsável pelas ações do jogo
 
@@ -14,7 +14,7 @@ JogoDinossauro\index.html------------------- Responsável pela interface do prog
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# FERRAMENTAS UTILIZADAS
+## FERRAMENTAS UTILIZADAS
 
 Visual Studio Code-------------------- Para escrita do código fonte da programação do jogo
 
