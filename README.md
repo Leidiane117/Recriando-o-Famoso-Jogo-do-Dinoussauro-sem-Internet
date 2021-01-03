@@ -1,9 +1,8 @@
 
-Projeto desenvolvido para recriar o famoso jogo do dinoussauro do  google usando JavaScript
---------------------------------------------------------------------------------------------
+## PROJETO DESENVOLVIDO PARA RECRIAR O FAMOSO JOGO DO DINOUSSAURO DO GOOGLE ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## ESTRUTURA DO PROJETO 
+# ESTRUTURA DO PROJETO 
 
 JogoDinossauro\acao\js.js -------------------	Responsável pelas ações do jogo
 
@@ -13,9 +12,9 @@ JogoDinossauro\imagens\---------------------	Responsável por guardar as imagens
 
 JogoDinossauro\index.html	------------------- Responsável pela interface do programa, utilizando linguagem de formatação Html5.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## FERRAMENTAS UTILIZADAS
+# FERRAMENTAS UTILIZADAS
 
 Visual Studio Code-------------------- Para escrita do código fonte da programação do jogo
 
@@ -29,4 +28,6 @@ Interface------------------------------------ Mozila Firefox
 
 Sistema Operacional --------------------------Linux- Ubuntu 20.4
 
-file:///home/leidiane/Imagens/Captura%20de%20tela%20de%202021-01-03%2019-55-26.png
+![Dino](imagens/dino1.png)
+	
+
