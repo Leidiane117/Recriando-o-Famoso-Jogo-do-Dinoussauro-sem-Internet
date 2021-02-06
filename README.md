@@ -18,12 +18,6 @@ JogoDinossauro\index.html------------------- Responsável pela interface do prog
 
 Visual Studio Code-------------------- Para escrita do código fonte da programação do jogo
 
-Linguagem de Programação JavaScript--------------------- Para desenvolver as ações do jogo
-
-Linguagem de Marcação Html5--------------------- Para estruturar a página  do jogo
-
-Linguagem de Programação CSS3--------------------- Para estilizar a página do jogo
-
 Interface------------------------------------ Mozila Firefox
 
 Sistema Operacional --------------------------Linux- Ubuntu 20.4
