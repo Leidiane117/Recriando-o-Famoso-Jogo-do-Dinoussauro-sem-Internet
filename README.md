@@ -4,13 +4,12 @@
 
 ## ESTRUTURA DO PROJETO 
 
-JogoDinossauro\acao\js.js -------------------	Responsável pelas ações do jogo
-
-JogoDinossauro\estilo\css.css -----------------------	Responsável pela estilização do jogo
-
-JogoDinossauro\imagens\---------------------	Responsável por guardar as imagens usadas no jogo
-
-JogoDinossauro\index.html------------------- Responsável pela interface do programa, utilizando linguagem de formatação Html5.
+| Diretório                    	| Finalidade       	                                                                                        | 
+|------------------------------	|---------------------------------------------------------------------------------------------------------- |
+| JogoDinossauro\acao\js.js		| Responsável pelas ações do jogo                                       |
+| JogoDinossauro\estilo\css.css 		| Reponsável por ler arquivos yaml file e retonar objeto HashMap com os valores dos campos                  |
+| JogoDinossauro\imagens\		| Metodos de suporte para trabalhar com datas                                                              	|
+| JogoDinossauro\index.html		| Responsável por fabricar os drivers para rodar local e remoto para varios navegadores                    	|
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
