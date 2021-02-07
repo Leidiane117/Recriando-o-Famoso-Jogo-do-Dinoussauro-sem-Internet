@@ -11,7 +11,6 @@
 | JogoDinossauro\imagens\		| Metodos de suporte para trabalhar com datas                                                              	|
 | JogoDinossauro\index.html		| Responsável por fabricar os drivers para rodar local e remoto para varios navegadores                    	|
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## FERRAMENTAS UTILIZADAS
 
@@ -21,6 +20,7 @@ Interface------------------------------------ Mozila Firefox
 
 Sistema Operacional --------------------------Linux- Ubuntu 20.4
 
-![Jogo](imagens/printTelaJogo.png)
+
+ <h3 align= "center">![Jogo](imagens/printTelaJogo.png)</h3>
 	
 
