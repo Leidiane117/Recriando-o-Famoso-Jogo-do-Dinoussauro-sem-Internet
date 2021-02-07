@@ -21,6 +21,6 @@ Interface------------------------------------ Mozila Firefox
 Sistema Operacional --------------------------Linux- Ubuntu 20.4
 
 
- <h3 align= "center">![Jogo](imagens/printTelaJogo.png)</h3>
+ <h3>![Jogo](imagens/printTelaJogo.png)</h3>
 	
 
