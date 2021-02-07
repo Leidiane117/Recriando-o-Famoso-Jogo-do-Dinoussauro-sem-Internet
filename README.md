@@ -20,7 +20,6 @@ Interface------------------------------------ Mozila Firefox
 
 Sistema Operacional --------------------------Linux- Ubuntu 20.4
 
-
  ![Jogo](imagens/printTelaJogo.png)
 	
 
